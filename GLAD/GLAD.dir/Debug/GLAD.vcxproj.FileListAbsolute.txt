@@ -1,0 +1,2 @@
+D:\private\project\openglLearn\GLRenderer\GLRenderer\Debug\GLAD.pdb
+D:\private\project\openglLearn\GLRenderer\GLRenderer\GLAD\GLAD.dir\Debug\GLAD.pdb

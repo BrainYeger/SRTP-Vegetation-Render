@@ -1,0 +1,2 @@
+D:\private\project\openglLearn\GLRenderer\GLRenderer\Debug\STB_IMAGE.pdb
+D:\private\project\openglLearn\GLRenderer\GLRenderer\STB_IMAGE\STB_IMAGE.dir\Debug\STB_IMAGE.pdb
